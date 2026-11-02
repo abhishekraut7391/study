@@ -1,6 +1,6 @@
-# IT Technical Support & Application Support Practice
+# Technical Learning & Practice Notes
 
-A beginner-friendly learning journal for strengthening the fundamentals needed in entry-level IT / Application Support roles.
+A beginner-friendly learning journal for building and documenting practical technical fundamentals.
 
 This repository documents concepts and safe practice exercises. It is a learning resource, not a record of production-server administration or professional support experience.
 
